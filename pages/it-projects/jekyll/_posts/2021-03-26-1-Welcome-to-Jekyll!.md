@@ -3,17 +3,19 @@
 layout: page
 title:  "Welcome to Jekyll!"
 date:   2021-03-26 10:26
+excerpt_separator: <!--more-->
 ---
 <div class="content">
   <img src="/assets/images/Jekyll/Welcome_to_Jekyll/jekyll_logo.png" alt="jekyll_logo" />
   <p>
     So let me introduce you to <a href="https://jekyllrb.com/">Jekyll</a> :) I want to talk about what it is, what it does for you and how to use it! In the upcoming articles I'll then take you with me on how I build this page using Jekyll and GitHub Pages.
-
+    <br /><br />
     Jekyll is a command line tool that transforms simple Markdown, Liquid, HTML and CSS into static sites for your blog. No more databases you have to manage, comment moderation or annoying security updates, at least as long as you don't choose to add that stuff ;) It offers a lot of ways to customize your website by mostly using a simple folder structure and config file. You easily can  tweak the site's look and feel, URLs, data displayed, and more to you personal liking. It is easy to use with GitHub Pages which offers free static site hosting for you.
-
+    <br /><br />
     There are some helpful sites like <a href="https://www.siteleaf.com/">Siteleaf</a> to make writing articles and customize your site a bit easier but I wanted to learn how Jekyll works so I decided to install it on my PC and go with the command line. So let's begin!
   </p>
 
+  <!--more-->
   <h2>1. Installing Jekyll</h2>
   <p>
     <p>
