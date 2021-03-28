@@ -27,3 +27,6 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
+#Global variables (mostly used for japanese words used globally)
+japanese-diary: 日本ごにっき (Japanese diary)
